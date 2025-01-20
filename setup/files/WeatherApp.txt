@@ -1,0 +1,1 @@
+Create a weather app using API integration with search, location-based updates, and favorite locations.
